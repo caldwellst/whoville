@@ -1,3 +1,7 @@
+# whoville 0.1.6
+
+* Minor change to accommodate new formatting for the World Bank's historical classification by income for countries.
+
 # whoville 0.1.5
 
 * Added UN intermediate regions, UN DESA regions and subregions, and SDG regions

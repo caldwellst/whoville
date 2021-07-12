@@ -1,7 +1,7 @@
 Package: whoville
 Type: Package
 Title: Country Codes, Names, and Other Metadata from the WHO, UN and WB 
-Version: 0.1.5
+Version: 0.1.6
 Authors@R: person("Seth", "Caldwell", email = "caldwellst@gmail.com", role = c("aut", "cre"))
 Description: Provides a collated dataset with official country names and codes
     from the World Health Organization and United Nations, alongside additional metadata
